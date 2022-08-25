@@ -1,6 +1,6 @@
 ----
 layout: single
-title: 🔔 posting 🔔
+title: posting
 ----
 
 
