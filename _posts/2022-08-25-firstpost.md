@@ -1,7 +1,8 @@
 ----
 layout: single
-title: 🔔
+title: 🔔 posting 🔔
 ----
+
 
 # Open heejeong's Tech blog 😊
 
