@@ -1,6 +1,6 @@
 ----
 layout: single
-title: posting
+title: 포스팅 시작!
 ----
 
 
