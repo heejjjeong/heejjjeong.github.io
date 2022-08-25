@@ -1,8 +1,7 @@
+
 ----
 layout: single
-title: 포스팅 시작!
-----
-
+title: 🔔포스팅 시작 
 
 # Open heejeong's Tech blog 😊
 
