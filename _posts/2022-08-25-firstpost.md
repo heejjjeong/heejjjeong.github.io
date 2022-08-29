@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Open heejeong's Tech blog 😊"
 ---
 
