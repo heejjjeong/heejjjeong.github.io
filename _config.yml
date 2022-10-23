@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Heedon's Tech Blog"
 title_separator          : "|"
-subtitle                 : "Today I Learn"
+subtitle                 : "Today I Learn | Since 2022"
 name                     : "Heedon"
 description              : "I will prepare, and someday my chance will come"
 url                      : "https://heejjjeong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bloglogo.jpg"
+logo                     : "/assets/images/bloglogo_2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Heedon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I will prepare, and someday my chance will come"
+  avatar           :  "/assets/images/profile.jpg"
+  bio              : "신입 개발자의 기록😊"
   location         : "South Korea"
   email            : 
   links:
