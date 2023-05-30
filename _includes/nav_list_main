@@ -113,7 +113,7 @@
                 {% endif %}
             {% endfor %}
         </ul>
-          <span class="nav__sub-title">UnrealEngine</span>
+          <span class="nav__sub-title">Unreal Engine</span>
         <ul>
             {% for category in site.categories %}
                 {% if category[0] == "unrealEngine" %}
@@ -121,7 +121,7 @@
                 {% endif %}
             {% endfor %}
         </ul>
-          <span class="nav__sub-title">UnityEngine</span>
+          <span class="nav__sub-title">Unity Engine</span>
         <ul>
             {% for category in site.categories %}
                 {% if category[0] == "unityEngine" %}
