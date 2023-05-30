@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Open Tech blog 😊"
-categories: Daliy
+categories: daily
 tag: [c++, etc]
 toc: true
 ---
