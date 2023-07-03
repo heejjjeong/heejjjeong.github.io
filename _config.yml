@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Heedon"
   avatar           :  "/assets/images/profile.jpg"
-  bio              : "신입 개발자의 기록😊"
+  bio              : "신입 게임 개발자의 기록😊"
   location         : "South Korea"
   email            : 
   links:
@@ -119,9 +119,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heejjjeong/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100014063461831"
+      # - label: "Facebook"
+      #   icon: "fab fa-fw fa-facebook-square"
+      #   url: "https://www.facebook.com/profile.php?id=100014063461831"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,9 +132,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heejjjeong/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100014063461831"
+    - label: "Youtube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/channel/UCSzGEUL8dV72OFzUilUTSYg"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url:

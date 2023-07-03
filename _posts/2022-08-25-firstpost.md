@@ -2,7 +2,7 @@
 layout: single
 title: "Open Tech blog 😊"
 categories: daily
-tag: [c++, etc]
+tag: [cpp, etc]
 toc: true
 ---
 
