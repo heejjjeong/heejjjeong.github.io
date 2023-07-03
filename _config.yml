@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heejjjeong/"
     - label: "Youtube"
-      icon: "fa-brands fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCSzGEUL8dV72OFzUilUTSYg"
       # - label: "Facebook"
       #   icon: "fab fa-fw fa-facebook-square"
@@ -133,11 +133,14 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-youtube"
       url: "https://github.com/heejjjeong/"
     - label: "Youtube"
-      icon: "fa-brands fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCSzGEUL8dV72OFzUilUTSYg"
+      # - label: "Facebook"
+      #   icon: "fab fa-fw fa-facebook-square"
+      #   url: "https://www.facebook.com/profile.php?id=100014063461831"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url:
