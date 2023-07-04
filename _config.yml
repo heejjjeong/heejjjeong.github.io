@@ -106,14 +106,14 @@ analytics:
 author:
   name             : "Heedon"
   avatar           :  "/assets/images/profile.jpg"
-  bio              : "신입 게임 개발자의 기록😊"
+  bio              : "게임 개발자의 기록😊"
   location         : "South Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hjjeon247@gmail.com"
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://heejjjeong.github.io/"
     - label: "GitHub"
@@ -121,7 +121,7 @@ author:
       url: "https://github.com/heejjjeong/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCSzGEUL8dV72OFzUilUTSYg"
+      url: "https://www.youtube.com/@hjjeon247"
       # - label: "Facebook"
       #   icon: "fab fa-fw fa-facebook-square"
       #   url: "https://www.facebook.com/profile.php?id=100014063461831"
