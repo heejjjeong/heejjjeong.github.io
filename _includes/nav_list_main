@@ -116,16 +116,16 @@
           <span class="nav__sub-title">Unreal Engine</span>
         <ul>
             {% for category in site.categories %}
-                {% if category[0] == "unrealEngine" %}
-                    <li><a href="/categories/unrealEngine" class="">언리얼 엔진 ({{category[1].size}})</a></li>
+                {% if category[0] == "UnrealEngine" %}
+                    <li><a href="/categories/UnrealEngine" class="">언리얼 엔진 ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
         </ul>
-          <span class="nav__sub-title">Unity Engine</span>
+        	<span class="nav__sub-title">Summary Of Book</span>
         <ul>
             {% for category in site.categories %}
-                {% if category[0] == "unityEngine" %}
-                    <li><a href="/categories/unityEngine" class="">유니티 ({{category[1].size}})</a></li>
+                {% if category[0] == "effectiveCpp" %}
+                    <li><a href="/categories/effectiveCpp" class="">Effective C++ ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -137,6 +137,7 @@
                 {% endif %}
             {% endfor %}
         </ul>
+        
         <span class="nav__sub-title">My Place</span>
         <ul>
             {% for category in site.categories %}
